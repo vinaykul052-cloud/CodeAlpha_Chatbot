@@ -1,3 +1,5 @@
+Welcome to my CodeAlpha Internship repository. This repository contains the Python projects I completed as part of my internship tasks. Each task is implemented in a separate Python file with clear instructions and outputs.
+
 ## Task 4: Basic Chatbot
 - *Description:* A simple rule-based chatbot implemented in Python. The user can type basic messages like "hello", "how are you", or "bye", and the chatbot responds with predefined replies. The chat continues until the user types "exit".
 - *File:* task4_basic_chatbot.py
